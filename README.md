@@ -50,12 +50,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swarup-surwase&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
