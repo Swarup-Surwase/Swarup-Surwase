@@ -19,9 +19,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=SWARUP&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/SWARUP?label=Followers&style=for-the-badge&color=2563eb&logo=github" alt="followers" />
-<img src="https://img.shields.io/github/stars/SWARUP?label=Stars&style=for-the-badge&color=db2777&logo=github" alt="stars" />
+
 
 </div>
 
